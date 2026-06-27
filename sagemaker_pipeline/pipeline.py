@@ -14,7 +14,7 @@ bucket = "customer-churn-mlops-bucket"
 
 # XGBoost estimator
 estimator = XGBoost(
-    entry_point="src/sagemaker_pipeline/train.py",
+    entry_point="sagemaker_pipeline/train.py",
 
     framework_version="1.7-1",
 
