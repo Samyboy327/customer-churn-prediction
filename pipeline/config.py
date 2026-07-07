@@ -14,7 +14,7 @@ SKLEARN_FRAMEWORK_VERSION = "1.2-1"
 
 PYTHON_VERSION = "py3"
 
-SOURCE_DIR = "pipeline"
+SOURCE_DIR = "."
 
 # ==========================================================
 # Scripts
